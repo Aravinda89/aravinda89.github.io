@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crypto Zombies
-tags: solidity 
+tags: Nodejs Captcha Puppeteer
 ---
 
-Crypto Zombies tutorial
+Crypto Zombies.
