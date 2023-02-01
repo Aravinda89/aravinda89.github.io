@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cryptozombies.io
+title: cryptozombies.io Chapter 1
 ---
 
 Chapter 1: Lesson1
@@ -12,3 +12,6 @@ Creating "Zombie Factory" to build an army of zombies.
 
 "Zombie DNA". Zombie DNA is a 16-digit integer, like:
 8356281049284737
+
+
+
