@@ -19,7 +19,6 @@ Create an empty contract called ZombieFactory.
 1. Contract uses solidity version >=0.5.0 <0.6.0.
 2. Create an empty contract called ZombieFactory.
 
-
 ```solidity
 pragma solidity >=0.5.0 <0.6.0; //1. Enter solidity version here
 
