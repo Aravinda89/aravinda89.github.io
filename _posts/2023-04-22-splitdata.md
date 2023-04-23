@@ -10,8 +10,22 @@ The folder structure would look something like this:
 <script src="https://gist.github.com/Aravinda89/ae9ba29924cec60f892fc290647d8759.js"></script>
 
         
-Obtain the image data Retrieve all the images located in the designated folder.
+1. Obtain the image data Retrieve all the images located in the designated folder.
 
 <script src="https://gist.github.com/Aravinda89/b3db76d48c4dfa8d801ae8619b008d3f.js"></script>
 
-https://gist.github.com/Aravinda89/b3db76d48c4dfa8d801ae8619b008d3f
+2. Split the data Randomly separate the image data into three sets: 70% for training, 15% for validation, and 15% for testing.
+
+<script src="https://gist.github.com/Aravinda89/2241d6cd7fc837b5e172e14cc9c8d997.js"></script>
+
+3. Copy the images into their respective folders Create separate folders for each set, including the training, evaluation, and testing sets. Copy the images into their respective folders based on the random split.
+
+<script src="https://gist.github.com/Aravinda89/11626d83af915b45ea56924b8f09001d.js"></script>
+
+Full code:
+
+<script src="https://gist.github.com/Aravinda89/0aafd15ff5cad8f13e9002f5ec459e8e.js"></script>
+
+
+“ Why did the machine learning model go to therapy?
+Because it couldn’t decide between the train, validation, and test sets — it just kept overthinking! :) ”
