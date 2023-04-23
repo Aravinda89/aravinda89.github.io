@@ -7,40 +7,10 @@ Splitting image data into train, validation, and test sets is a crucial step in 
 It's useful to have code that can quickly separate image data into training, validation, and testing datasets.
 The folder structure would look something like this:
 
-data/
-    train/
-        img_00.jpg
-        ...
-        img_69.jpg
-    val/
-        img_70.jpg
-        ...
-        img_85.jpg
-    test/
-        img_86.jpg
-        ...
-        img_100.jpg
+<script src="https://gist.github.com/Aravinda89/ae9ba29924cec60f892fc290647d8759.js"></script>
+
         
 Obtain the image data Retrieve all the images located in the designated folder.
 
-'''pyhon
-
-import os
-import random
-import shutil
-
-data_path = "data/"
-
-# path to destination folders
-train_folder = os.path.join(data_path, 'train')
-val_folder = os.path.join(data_path, 'eval')
-test_folder = os.path.join(data_path, 'test')
-
-# Define a list of image extensions
-image_extensions = ['.jpg', '.jpeg', '.png', '.bmp']
-
-# Create a list of image filenames in 'data_path'
-imgs_list = [filename for filename in os.listdir(data_path) if os.path.splitext(filename)[-1] in image_extensions]
-
-'''
+<script src="https://gist.github.com/Aravinda89/b3db76d48c4dfa8d801ae8619b008d3f.js"></script>
 
