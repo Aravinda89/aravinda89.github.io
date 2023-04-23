@@ -43,3 +43,4 @@ image_extensions = ['.jpg', '.jpeg', '.png', '.bmp']
 imgs_list = [filename for filename in os.listdir(data_path) if os.path.splitext(filename)[-1] in image_extensions]
 
 '''
+
