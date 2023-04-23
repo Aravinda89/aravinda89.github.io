@@ -14,13 +14,16 @@ The folder structure would look something like this:
 
 <script src="https://gist.github.com/Aravinda89/b3db76d48c4dfa8d801ae8619b008d3f.js"></script>
 
+
 2. Split the data Randomly separate the image data into three sets: 70% for training, 15% for validation, and 15% for testing.
 
 <script src="https://gist.github.com/Aravinda89/2241d6cd7fc837b5e172e14cc9c8d997.js"></script>
 
+
 3. Copy the images into their respective folders Create separate folders for each set, including the training, evaluation, and testing sets. Copy the images into their respective folders based on the random split.
 
 <script src="https://gist.github.com/Aravinda89/11626d83af915b45ea56924b8f09001d.js"></script>
+
 
 Full code:
 
