@@ -1,4 +1,7 @@
-How to split image dataset into train, validation and test set?
+---
+layout: post
+title: How to split image dataset into train, validation and test set?
+---
 
 Splitting image data into train, validation, and test sets is a crucial step in machine learning model development. It helps to prevent over-fitting, evaluate model performance, and ensure that the model generalizes well to new, unseen data.
 It's useful to have code that can quickly separate image data into training, validation, and testing datasets.
