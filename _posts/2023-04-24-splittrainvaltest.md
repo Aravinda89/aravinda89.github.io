@@ -23,4 +23,23 @@ data/
         
 Obtain the image data Retrieve all the images located in the designated folder.
 
-'''pyhon'''
+'''pyhon
+
+import os
+import random
+import shutil
+
+data_path = "data/"
+
+# path to destination folders
+train_folder = os.path.join(data_path, 'train')
+val_folder = os.path.join(data_path, 'eval')
+test_folder = os.path.join(data_path, 'test')
+
+# Define a list of image extensions
+image_extensions = ['.jpg', '.jpeg', '.png', '.bmp']
+
+# Create a list of image filenames in 'data_path'
+imgs_list = [filename for filename in os.listdir(data_path) if os.path.splitext(filename)[-1] in image_extensions]
+
+'''
