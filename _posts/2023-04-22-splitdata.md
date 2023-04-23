@@ -25,7 +25,7 @@ The folder structure would look something like this:
 <script src="https://gist.github.com/Aravinda89/11626d83af915b45ea56924b8f09001d.js"></script>
 
 
-<a href="https://github.com/Aravinda89/split_train_eval_test"> Full code: </a>
+<a href="https://github.com/Aravinda89/split_train_eval_test"> Full code </a>
 
 <script src="https://gist.github.com/Aravinda89/0aafd15ff5cad8f13e9002f5ec459e8e.js"></script>
 
