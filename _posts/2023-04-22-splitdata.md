@@ -14,3 +14,4 @@ Obtain the image data Retrieve all the images located in the designated folder.
 
 <script src="https://gist.github.com/Aravinda89/b3db76d48c4dfa8d801ae8619b008d3f.js"></script>
 
+https://gist.github.com/Aravinda89/b3db76d48c4dfa8d801ae8619b008d3f
