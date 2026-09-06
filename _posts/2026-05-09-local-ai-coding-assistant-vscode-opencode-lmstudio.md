@@ -86,7 +86,7 @@ That address is your own machine talking to itself. Nothing is going out to the 
 
 Install VS Code if you don't have it.
 
-Then install opencode. On Windows, the simplest route is npm:
+Then install opencode. On Windows in command prompt, the simplest route is npm:
 
 ```bash
 npm install -g opencode-ai
