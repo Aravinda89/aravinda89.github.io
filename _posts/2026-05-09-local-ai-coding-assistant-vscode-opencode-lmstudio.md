@@ -100,7 +100,7 @@ opencode
 
 opencode starts up right there in the terminal panel.
 
-![opencode running in the VS Code terminal](/assets/images/opencode-terminal.png)
+![opencode running in the VS Code terminal](/images/opencode-terminal.png)
 
 ## Step 6: Point opencode at your local model
 
