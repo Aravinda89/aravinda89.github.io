@@ -123,15 +123,15 @@ Restart VS Code, then start opencode again.
 
 Type `/models` and select **qwen/qwen3-8b** from the list.
 
-![Selecting the local model in opencode](/assets/images/opencode-model-list.png)
+![Selecting the local model in opencode](/images/opencode-model-list.png)
 
 Now ask it to do something real. Give it a file to fix.
 
-![opencode answering a coding question](/assets/images/opencode-answer.png)
+![opencode answering a coding question](/images/opencode-answer.png)
 
 Want proof it's actually running locally? Switch over to LM Studio and check the logs. You'll see tokens streaming as the assistant types.
 
-![LM Studio logs showing token generation](/assets/images/lmstudio-logs.png)
+![LM Studio logs showing token generation](/images/lmstudio-logs.png)
 
 That's your own GPU doing the work.
 
