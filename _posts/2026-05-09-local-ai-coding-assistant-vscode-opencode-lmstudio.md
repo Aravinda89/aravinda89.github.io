@@ -76,7 +76,7 @@ Context size is how much text the model can hold in its head at once — your qu
 
 Flip the server status to **Running**.
 
-![LM Studio local server running](/assets/images/lmstudio-server-running.png)
+![LM Studio local server running](/images/lmstudio-server-running.png)
 
 Your model is now live at `http://127.0.0.1:1234`.
 
