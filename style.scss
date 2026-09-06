@@ -154,11 +154,12 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: linear-gradient(135deg, var(--masthead-bg-start), var(--masthead-bg-end));
+  box-shadow: 0 6px 20px var(--masthead-shadow);
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid var(--border);
+  padding: 40px 0;
 
   @include mobile {
     text-align: center;
@@ -178,7 +179,8 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 255, 255, 0.55);
   }
 }
 
@@ -194,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: var(--heading);
+  color: var(--masthead-text);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -204,7 +206,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: var(--text-secondary);
+  color: var(--masthead-text-secondary);
   font-size: 16px;
 
   @include mobile {
@@ -227,14 +229,19 @@ nav {
 
   a {
     margin-left: 20px;
-    color: var(--text);
+    color: var(--masthead-text);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: var(--masthead-text-secondary);
+    }
 
     @include mobile {
       margin: 0 10px;
-      color: var(--accent);
+      color: var(--masthead-text-secondary);
     }
   }
 }
@@ -268,8 +275,22 @@ nav {
   }
 
   .read-more {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 5px 14px;
+    border-radius: 999px;
+    background: var(--accent-light);
+    color: var(--accent);
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    transition: background-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      background: var(--accent);
+      color: var(--masthead-text);
+    }
   }
 }
 
