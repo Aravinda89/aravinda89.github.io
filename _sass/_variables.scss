@@ -7,57 +7,57 @@
 // automatically based on the reader's OS/browser preference.
 :root {
   --bg: #ffffff;
-  --bg-secondary: #f7f5fc;
-  --text: #241f33;
-  --text-secondary: #6b6480;
-  --heading: #1a1530;
-  --border: #e5e0f0;
-  --accent: #7c3aed;
-  --accent-hover: #6d28d9;
-  --accent-light: #ede9fe;
-  --selection-bg: #ede9fe;
-  --selection-text: #1a1530;
+  --bg-secondary: #f5f8fc;
+  --text: #1c2733;
+  --text-secondary: #5b6b7d;
+  --heading: #131c26;
+  --border: #dce6f0;
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --accent-light: #dbeafe;
+  --selection-bg: #dbeafe;
+  --selection-text: #131c26;
 
-  --masthead-bg-start: #4c1d95;
-  --masthead-bg-end: #7c3aed;
+  --masthead-bg-start: #1e3a8a;
+  --masthead-bg-end: #2563eb;
   --masthead-text: #ffffff;
-  --masthead-text-secondary: #ddd2fb;
-  --masthead-shadow: rgba(76, 29, 149, 0.18);
+  --masthead-text-secondary: #cfe0fb;
+  --masthead-shadow: rgba(30, 58, 138, 0.18);
 
-  --hl-bg: #f7f5fc;
-  --hl-border: #e5e0f0;
-  --hl-shadow: rgba(76, 29, 149, 0.08);
-  --hl-fg: #6b6480;
-  --hl-comment: #8a83a0;
-  --hl-other: #6b6480;
+  --hl-bg: #f5f8fc;
+  --hl-border: #dce6f0;
+  --hl-shadow: rgba(30, 58, 138, 0.08);
+  --hl-fg: #5b6b7d;
+  --hl-comment: #7c8ea1;
+  --hl-other: #5b6b7d;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #100c1c;
-    --bg-secondary: #1b1530;
-    --text: #e5e1f2;
-    --text-secondary: #a79fc0;
-    --heading: #f5f2fb;
-    --border: #322a4a;
-    --accent: #a78bfa;
-    --accent-hover: #c4b5fd;
-    --accent-light: #2e2350;
-    --selection-bg: #3b2e63;
-    --selection-text: #f5f2fb;
+    --bg: #0b1220;
+    --bg-secondary: #131b2c;
+    --text: #dbe4f0;
+    --text-secondary: #93a3b8;
+    --heading: #f0f4fa;
+    --border: #253248;
+    --accent: #60a5fa;
+    --accent-hover: #93c5fd;
+    --accent-light: #1e293b;
+    --selection-bg: #1e3a5f;
+    --selection-text: #f0f4fa;
 
-    --masthead-bg-start: #1b1530;
-    --masthead-bg-end: #4c1d95;
-    --masthead-text: #f5f2fb;
-    --masthead-text-secondary: #c4b5fd;
+    --masthead-bg-start: #131b2c;
+    --masthead-bg-end: #1e3a8a;
+    --masthead-text: #f0f4fa;
+    --masthead-text-secondary: #93c5fd;
     --masthead-shadow: rgba(0, 0, 0, 0.45);
 
-    --hl-bg: #1b1530;
-    --hl-border: #322a4a;
+    --hl-bg: #131b2c;
+    --hl-border: #253248;
     --hl-shadow: rgba(0, 0, 0, 0.4);
-    --hl-fg: #cabfe0;
-    --hl-comment: #948aad;
-    --hl-other: #cabfe0;
+    --hl-fg: #c3d0e0;
+    --hl-comment: #8fa0b8;
+    --hl-other: #c3d0e0;
   }
 }
 
