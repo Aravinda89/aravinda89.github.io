@@ -48,7 +48,7 @@ Why those matter, in plain English:
 
 **Tool use is non-negotiable.** A coding assistant needs to open your files and edit them. A model without tool use can only chat about your code — it can't touch it. Skip this check and nothing will work later.
 
-![Searching for the Qwen3 8B model in LM Studio](/assets/images/lmstudio-model-search.png)
+![Searching for the Qwen3 8B model in LM Studio](/images/lmstudio-model-search.png)
 
 Got different hardware? Pick a model that fits it. Bigger models are smarter but hungrier. An 8B model is a comfortable fit for 8GB of VRAM.
 
