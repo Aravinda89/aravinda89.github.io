@@ -7,43 +7,57 @@
 // automatically based on the reader's OS/browser preference.
 :root {
   --bg: #ffffff;
-  --bg-secondary: #f6f7f9;
-  --text: #1f2328;
-  --text-secondary: #57606a;
-  --heading: #111418;
-  --border: #e2e4e9;
-  --accent: #6d28d9;
-  --accent-hover: #5b21b6;
+  --bg-secondary: #f7f5fc;
+  --text: #241f33;
+  --text-secondary: #6b6480;
+  --heading: #1a1530;
+  --border: #e5e0f0;
+  --accent: #7c3aed;
+  --accent-hover: #6d28d9;
+  --accent-light: #ede9fe;
   --selection-bg: #ede9fe;
-  --selection-text: #1f2328;
+  --selection-text: #1a1530;
 
-  --hl-bg: #f6f7f9;
-  --hl-border: #e2e4e9;
-  --hl-shadow: rgba(0, 0, 0, 0.06);
-  --hl-fg: #57606a;
-  --hl-comment: #6e7781;
-  --hl-other: #57606a;
+  --masthead-bg-start: #4c1d95;
+  --masthead-bg-end: #7c3aed;
+  --masthead-text: #ffffff;
+  --masthead-text-secondary: #ddd2fb;
+  --masthead-shadow: rgba(76, 29, 149, 0.18);
+
+  --hl-bg: #f7f5fc;
+  --hl-border: #e5e0f0;
+  --hl-shadow: rgba(76, 29, 149, 0.08);
+  --hl-fg: #6b6480;
+  --hl-comment: #8a83a0;
+  --hl-other: #6b6480;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0d1117;
-    --bg-secondary: #161b22;
-    --text: #c9d1d9;
-    --text-secondary: #8b949e;
-    --heading: #f0f3f6;
-    --border: #30363d;
+    --bg: #100c1c;
+    --bg-secondary: #1b1530;
+    --text: #e5e1f2;
+    --text-secondary: #a79fc0;
+    --heading: #f5f2fb;
+    --border: #322a4a;
     --accent: #a78bfa;
     --accent-hover: #c4b5fd;
+    --accent-light: #2e2350;
     --selection-bg: #3b2e63;
-    --selection-text: #f0f3f6;
+    --selection-text: #f5f2fb;
 
-    --hl-bg: #161b22;
-    --hl-border: #30363d;
-    --hl-shadow: rgba(0, 0, 0, 0.35);
-    --hl-fg: #c9d1d9;
-    --hl-comment: #8b949e;
-    --hl-other: #c9d1d9;
+    --masthead-bg-start: #1b1530;
+    --masthead-bg-end: #4c1d95;
+    --masthead-text: #f5f2fb;
+    --masthead-text-secondary: #c4b5fd;
+    --masthead-shadow: rgba(0, 0, 0, 0.45);
+
+    --hl-bg: #1b1530;
+    --hl-border: #322a4a;
+    --hl-shadow: rgba(0, 0, 0, 0.4);
+    --hl-fg: #cabfe0;
+    --hl-comment: #948aad;
+    --hl-other: #cabfe0;
   }
 }
 
