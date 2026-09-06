@@ -106,10 +106,11 @@ opencode starts up right there in the terminal panel.
 
 Here's the part that trips people up. opencode has no idea your model exists yet. You have to tell it, using a config file.
 
-Create the config file — [here's mine](https://gist.github.com/Aravinda89/4e62deab8078d6879282a7b930bf3360) — and save it to:
+Create the config file — [here's mine](https://gist.github.com/Aravinda89/4e62deab8078d6879282a7b930bf3360) 
 
 {% gist Aravinda89/4e62deab8078d6879282a7b930bf3360 %}
 
+save it to:
 ```
 C:\Users\YOUR_USERNAME\.config\opencode
 ```
