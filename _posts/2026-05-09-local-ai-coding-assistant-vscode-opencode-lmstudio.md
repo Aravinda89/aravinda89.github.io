@@ -30,7 +30,7 @@ Download it from [lmstudio.ai](https://lmstudio.ai/) and install it like any nor
 
 LM Studio lets you download and run open-source AI models directly on your computer. It's the easiest way into local AI — no command line required.
 
-![LM Studio app home screen](/assets/images/lmstudio-home.png)
+![LM Studio app home screen](/images/lmstudio-home.png)
 
 ## Step 2: Download the model
 
