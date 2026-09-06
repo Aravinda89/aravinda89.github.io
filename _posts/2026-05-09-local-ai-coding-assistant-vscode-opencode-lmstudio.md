@@ -54,7 +54,7 @@ Got different hardware? Pick a model that fits it. Bigger models are smarter but
 
 Once the download finishes, your model shows up under **My Models**.
 
-![Downloaded models list in LM Studio](/assets/images/lmstudio-my-models.png)
+![Downloaded models list in LM Studio](/images/lmstudio-my-models.png)
 
 ## Step 3: Load the model
 
@@ -62,7 +62,7 @@ Go to the **Developer** tab and select your model.
 
 Turn on **"Manually choose model load parameters"**, then click the small arrow next to the model name to open the settings.
 
-![LM Studio developer tab with model load settings](/assets/images/lmstudio-developer-tab.png)
+![LM Studio developer tab with model load settings](/images/lmstudio-developer-tab.png)
 
 Now find **context size** and set it to **16000**.
 
