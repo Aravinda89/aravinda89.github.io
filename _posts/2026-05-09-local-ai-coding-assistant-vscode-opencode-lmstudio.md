@@ -70,7 +70,7 @@ Context size is how much text the model can hold in its head at once — your qu
 
 16000 is a good number for 8GB. If you have less, go lower. If the model refuses to load, lower it again and try once more.
 
-![Setting context size to 16000 in LM Studio](/assets/images/lmstudio-context-size.png)
+![Setting context size to 16000 in LM Studio](/images/lmstudio-context-size.png)
 
 ## Step 4: Turn on the server
 
