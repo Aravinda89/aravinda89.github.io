@@ -3,16 +3,49 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
+// Color theme: CSS custom properties so the site can switch to dark mode
+// automatically based on the reader's OS/browser preference.
+:root {
+  --bg: #ffffff;
+  --bg-secondary: #f6f7f9;
+  --text: #1f2328;
+  --text-secondary: #57606a;
+  --heading: #111418;
+  --border: #e2e4e9;
+  --accent: #6d28d9;
+  --accent-hover: #5b21b6;
+  --selection-bg: #ede9fe;
+  --selection-text: #1f2328;
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+  --hl-bg: #f6f7f9;
+  --hl-border: #e2e4e9;
+  --hl-shadow: rgba(0, 0, 0, 0.06);
+  --hl-fg: #57606a;
+  --hl-comment: #6e7781;
+  --hl-other: #57606a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --bg-secondary: #161b22;
+    --text: #c9d1d9;
+    --text-secondary: #8b949e;
+    --heading: #f0f3f6;
+    --border: #30363d;
+    --accent: #a78bfa;
+    --accent-hover: #c4b5fd;
+    --selection-bg: #3b2e63;
+    --selection-text: #f0f3f6;
+
+    --hl-bg: #161b22;
+    --hl-border: #30363d;
+    --hl-shadow: rgba(0, 0, 0, 0.35);
+    --hl-fg: #c9d1d9;
+    --hl-comment: #8b949e;
+    --hl-other: #c9d1d9;
+  }
+}
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
