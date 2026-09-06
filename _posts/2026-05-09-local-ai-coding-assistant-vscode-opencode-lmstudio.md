@@ -26,7 +26,7 @@ LM Studio does the thinking. opencode does the work. VS Code is where you sit.
 
 ## Step 1: Install LM Studio
 
-Download it from [lmstudio.ai](https://lmstudio.ai/) and install it like any normal app.
+Download it from [lmstudio.ai](https://lmstudio.ai/download/) and install it like any normal app.
 
 LM Studio lets you download and run open-source AI models directly on your computer. It's the easiest way into local AI — no command line required.
 
