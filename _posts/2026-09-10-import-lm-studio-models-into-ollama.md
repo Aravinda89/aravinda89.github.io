@@ -68,13 +68,15 @@ Save it. That's the whole file. Really! 😄
 
 Grab it from the [official Ollama download page](https://ollama.com/download/windows) and install.
 
+![Ollama download](/images/ollama-download.png)
+
 Then open **PowerShell** and type:
 
 ```bash
 ollama list
 ```
 
-![Ollama list command showing no models installed](images/04-ollama-list-empty.png)
+![Ollama list command showing no models installed](/images/04-ollama-list-empty.png)
 
 Empty? Perfect. Let's fill it up. 👇
 
