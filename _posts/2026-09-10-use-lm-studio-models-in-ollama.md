@@ -4,8 +4,6 @@ description: "Already have models in LM Studio? Import them into Ollama in 5 eas
 tags: [ollama, lm-studio, local-llm, gguf, windows]
 ---
 
-# Use Your LM Studio Models in Ollama (No Re-Download!) 🚀
-
 Downloaded a bunch of models in LM Studio? 📦
 
 Now you want to try Ollama... and it wants you to download them **all over again**? 😩
