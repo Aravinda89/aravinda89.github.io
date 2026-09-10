@@ -5,6 +5,8 @@ date: 2026-09-10
 tags: [ollama, lm studio, gguf, modelfile, local llm, windows, qwen3]
 ---
 
+![Import LM Studio models into Ollama without re-downloading](/images/import-lm-studio-models-into-ollama-header.png)
+
 Downloaded a bunch of models in **LM Studio**? 📦
 
 Now you want to try **Ollama**... and it wants you to download them **all over again**? 😩
