@@ -91,7 +91,7 @@ ollama create qwen3 -f .\Modelfile.txt
 
 💡 `qwen3` is just a nickname. Call it anything you like!
 
-![Ollama create command importing an LM Studio model](images/05-ollama-create.png)
+![Ollama create command importing an LM Studio model](/images/05-ollama-create.png)
 
 See **success**? You did it! 🎉
 
