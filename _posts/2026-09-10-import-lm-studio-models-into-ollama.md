@@ -1,11 +1,9 @@
 ---
-title: "How to Import LM Studio Models into Ollama (No Re-Download)"
+title: "How to Import LM Studio Models into Ollama (No Re-Download!) 🚀"
 description: "Learn how to import LM Studio models into Ollama on Windows in 5 easy steps. Reuse your GGUF files with a simple Modelfile. No re-downloading needed!"
 date: 2026-09-10
 tags: [ollama, lm studio, gguf, modelfile, local llm, windows, qwen3]
 ---
-
-# How to Import LM Studio Models into Ollama (No Re-Download!) 🚀
 
 Downloaded a bunch of models in **LM Studio**? 📦
 
