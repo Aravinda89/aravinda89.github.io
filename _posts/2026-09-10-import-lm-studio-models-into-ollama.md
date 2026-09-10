@@ -60,7 +60,7 @@ FROM C:/Users/YOU/.cache/lm-studio/models/lmstudio-community/Qwen3-8B-GGUF/Qwen3
 
 Save it. That's the whole file. Really! 😄
 
-![Ollama Modelfile pointing to an LM Studio GGUF model](images/02-modelfile.png)
+![Ollama Modelfile pointing to an LM Studio GGUF model](/images/02-modelfile.png)
 
 ---
 
