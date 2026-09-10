@@ -38,7 +38,7 @@ Want the easy step-by-step version? Let's go! 👇
 
 In LM Studio, go to **My Models** → click **⋯** next to your model → **Copy absolute path**.
 
-![How to copy the GGUF model path in LM Studio](images/01-lm-studio-copy-path.png)
+![How to copy the GGUF model path in LM Studio](images/01-lm-studio-copy-path.jpg)
 
 It looks something like this:
 
