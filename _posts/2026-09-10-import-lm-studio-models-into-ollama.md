@@ -112,6 +112,7 @@ Not a terminal fan? Open the **Ollama app** and pick `qwen3` from the list. 🖱
 
 ![Using the imported Qwen3 model in the Ollama app](/images/08-ollama-app.png)
 
+![ollama_ls](/images/ollama_ls.png)
 ---
 
 ## How to Remove an Imported Model from Ollama 🗑️
