@@ -102,14 +102,15 @@ See **success**? You did it! 🎉
 ```bash
 ollama run qwen3
 ```
+![run qwen](/images/run_qwen.png)
 
 Type a message, hit **Enter**, and chat away. 💬
 
-![Chatting with the imported Qwen3 model in Ollama terminal](images/07-chat-in-terminal.png)
+![Chatting with the imported Qwen3 model in Ollama terminal](/images/07-chat-in-terminal.png)
 
 Not a terminal fan? Open the **Ollama app** and pick `qwen3` from the list. 🖱️
 
-![Using the imported Qwen3 model in the Ollama app](images/08-ollama-app.png)
+![Using the imported Qwen3 model in the Ollama app](/images/08-ollama-app.png)
 
 ---
 
