@@ -55,7 +55,7 @@ ollama pull qwen3:8b
 
 This downloads the model's weights to your machine (a few gigabytes, so grab a coffee ☕). You'll see a progress bar as it downloads:
 
-[!alt text](/images/download_progress.png)
+![alt text](/images/download_progress.png)
 
 Once it's done, you'll see a confirmation that the model is ready to use.
 That's it — you now have a full AI model running locally, with zero cloud dependency.
