@@ -55,12 +55,9 @@ ollama pull qwen3:8b
 
 This downloads the model's weights to your machine (a few gigabytes, so grab a coffee ☕). You'll see a progress bar as it downloads:
 
-**[Insert screenshot — alt text: "Terminal showing ollama pull qwen3:8b download progress"]**
+[!alt text](/images/download_progress.png)
 
-Once it's done, you'll see a confirmation that the model is ready to use:
-
-**[Insert screenshot — alt text: "Terminal confirming Qwen3:8B model download complete"]**
-
+Once it's done, you'll see a confirmation that the model is ready to use.
 That's it — you now have a full AI model running locally, with zero cloud dependency.
 
 ## Step 3: Install OpenCode
