@@ -41,6 +41,7 @@ Once it's installed, Ollama runs quietly in the background and exposes a local A
 ```
 http://localhost:11434
 ```
+![alt text](/images/Screenshot 2026-09-11 111426.png)
 
 You won't need to touch this URL directly — just know it's there, because we'll point OpenCode at it later.
 
