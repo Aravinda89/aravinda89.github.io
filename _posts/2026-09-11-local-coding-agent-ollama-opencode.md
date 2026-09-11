@@ -6,6 +6,7 @@ tags: [ollama, opencode, qwen3, local-llm, ai-coding-assistant, vscode, offline-
 categories: [tutorials]
 ---
 ![alt text](/images/image.png)
+
 Cloud-based AI coding assistants are great — until you hit a usage cap, worry about sending your code to someone else's server, or just don't have Wi-Fi on a flight. What if your coding agent lived entirely on *your* machine instead?
 
 In this guide, I'll walk you through setting up a completely local AI coding agent using three free tools:
@@ -32,6 +33,8 @@ Ollama is the engine that runs the AI model on your machine — think of it as t
 
 1. Head to [ollama.com](https://ollama.com) and download the installer for your OS (Windows, macOS, or Linux).
 2. Run the installer like any other app.
+
+![alt text](/images/ollama-download.png)
 
 Once it's installed, Ollama runs quietly in the background and exposes a local API at:
 
