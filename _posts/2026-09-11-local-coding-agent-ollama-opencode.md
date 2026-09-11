@@ -1,7 +1,9 @@
-# How to Build a Fully Local AI Coding Agent with Ollama + OpenCode (No Cloud, No API Keys, No Monthly Bill)
-
-**Meta description:** Run your own private AI coding agent locally using Ollama and OpenCode in VS Code — no internet, no API keys, no subscription. Works even on a modest gaming laptop.
-
+---
+title: "How to Build a Fully Local AI Coding Agent with Ollama + OpenCode (No Cloud, No API Keys, No Monthly Bill)"
+description: "Run your own private AI coding agent locally using Ollama and OpenCode in VS Code — no internet, no API keys, no subscription. Works even on a modest gaming laptop."
+date: 2026-09-11
+tags: [ollama, opencode, qwen3, local-llm, ai-coding-assistant, vscode, offline-ai]
+categories: [tutorials]
 ---
 
 Cloud-based AI coding assistants are great — until you hit a usage cap, worry about sending your code to someone else's server, or just don't have Wi-Fi on a flight. What if your coding agent lived entirely on *your* machine instead?
