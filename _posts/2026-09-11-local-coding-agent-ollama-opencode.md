@@ -5,7 +5,7 @@ date: 2026-09-11
 tags: [ollama, opencode, qwen3, local-llm, ai-coding-assistant, vscode, offline-ai]
 categories: [tutorials]
 ---
-
+![alt text](/images/image.png)
 Cloud-based AI coding assistants are great — until you hit a usage cap, worry about sending your code to someone else's server, or just don't have Wi-Fi on a flight. What if your coding agent lived entirely on *your* machine instead?
 
 In this guide, I'll walk you through setting up a completely local AI coding agent using three free tools:
