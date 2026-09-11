@@ -121,13 +121,13 @@ opencode
 
 4. Inside OpenCode, run `/models` and select **Qwen3 8B** from the list.
 
-**[Insert screenshot — alt text: "OpenCode model selection menu showing Qwen3 8B option"]**
+![alt text](/images/OpenCode1.png)
 
 ## Step 6: Test Your Local Coding Agent
 
 Give it a small task — ask it to explain a function, write a test, or refactor a snippet. If it responds and starts editing files, congratulations: you now have a private, offline, zero-subscription AI coding agent running entirely on your own hardware.
 
-**[Insert screenshot — alt text: "OpenCode responding to a coding prompt using the local Qwen3 8B model"]**
+![alt text](/images/OpenCode2.png)
 
 ## Troubleshooting Tips
 
